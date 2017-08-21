@@ -1,0 +1,1 @@
+# cpo_tools_new_item_setup_hunter_fan-ts-generator
